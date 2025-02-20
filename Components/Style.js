@@ -15,5 +15,8 @@ export default StyleSheet.create({
     text2:{
         color:"black",
         fontSize: 20
+    },
+    body:{
+        alignItems:"flex-end"
     }
 })
